@@ -9,7 +9,7 @@
 <h3 align="center">A Passionate Web Developer & Designer</h3>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a graduating student from the <strong>ALX Software Engineering Program</strong>—this is where my journey into software engineering began.
+  Welcome to my GitHub profile! I graduated from the prestigious <strong>ALX Software Engineering Program</strong>—this was where my journey into software engineering began.
   I'm passionate about web development and find inspiration in bringing design ideas to life, creating mind-blowing user experiences and designs that truly stand out.
 </p>
 
